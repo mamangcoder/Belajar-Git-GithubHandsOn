@@ -1,9 +1,19 @@
 # Belajar-Git-GithubHandsOn
+### Git dan GitHub.
 Git adalah Version control system.
 Version Control System merupakan tools untuk mengatur suatu perubahan dan konfigurasi dari suatu Folder, termasuk juga source code. 
-Kita akan Belajar
-1. Git dan GitHub.
-2. Dasar-dasar Git.
+### perbedaan git dan github?
+### <a href="https://drive.google.com/file/d/1USx6VW8Eusdefd8oulrUZ58ufyu_s_Z-/view?usp=sharing">Simple Git Workflow</a>
+<br/>
+Git explanation: <a href="https://git-scm.com/">Git</a>  <br/>
+Github explanation: <a href="https://www.w3schools.com/whatis/whatis_github.asp">Github</a>
+<br/>
+<br/>
+<br/>
+
+# Lets Hands on....
+
+## Dasar-dasar Git.
 - Git Commit <br/>
 Gitt Commit merupakan perintah untuk menyimpan hasil perubahan setiap file yang ada di dalam direktori kerja.  
 - Git Checkout <br/>
@@ -19,8 +29,8 @@ perintah untuk mengembalikan suatu kondisi berkas ke commit yang dituju dan meng
 Perintah ini akan mengembalikan kondisi suatu berkas ke waktu/commit yang dituju tanpa menghapus catatan riwayat commit.
 ![rever](https://github.com/user-attachments/assets/17590d2a-53e0-403a-bd0f-9762b0426e3c)
 
-4. Git Branches.
-### <a href="https://drive.google.com/file/d/1USx6VW8Eusdefd8oulrUZ58ufyu_s_Z-/view?usp=sharing">Simple Git Workflow</a>
+### Git Branches.
+
 
  apa itu Commit?
  Commit itu seperti snapshot (cuplikan) dari repository Anda pada waktu tertentu dan merupakan salah satu perintah dasar Git untuk menyimpan perubahan setiap file dalam repository di mana perubahan yang telah di-commit akan tersimpan riwayat perubahannya. 
