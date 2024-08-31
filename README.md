@@ -18,7 +18,7 @@ Untuk membuat akun github : <a href="https://github.com/signup">Click</a>
 - Git Commit <br/>
 Gitt Commit merupakan perintah untuk menyimpan hasil perubahan setiap file yang ada di dalam direktori kerja.  
 
-### 2. Git Branches.
+### 2. Git Branching
 Branching artinya kita membuat timeline baru yang berbeda dari timeline utama dan biasanya timeline utama, atau branch utama disebut dengan master atau main
 
 
