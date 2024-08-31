@@ -20,7 +20,7 @@ Perintah ini akan mengembalikan kondisi suatu berkas ke waktu/commit yang dituju
 ![rever](https://github.com/user-attachments/assets/17590d2a-53e0-403a-bd0f-9762b0426e3c)
 
 4. Git Branches.
-### <a href="https://drive.google.com/file/d/1USx6VW8Eusdefd8oulrUZ58ufyu_s_Z-/view?usp=sharing">Simple Flow</a>
+### <a href="https://drive.google.com/file/d/1USx6VW8Eusdefd8oulrUZ58ufyu_s_Z-/view?usp=sharing">Simple Git Workflow</a>
 
  apa itu Commit?
  Commit itu seperti snapshot (cuplikan) dari repository Anda pada waktu tertentu dan merupakan salah satu perintah dasar Git untuk menyimpan perubahan setiap file dalam repository di mana perubahan yang telah di-commit akan tersimpan riwayat perubahannya. 
