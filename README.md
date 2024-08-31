@@ -7,16 +7,31 @@ Version Control System merupakan tools untuk mengatur suatu perubahan dan konfig
 <br/>
 Git explanation: <a href="https://git-scm.com/">Git</a>  <br/>
 Github explanation: <a href="https://www.w3schools.com/whatis/whatis_github.asp">Github</a>
+Untuk membuat akun github : <a href="https://github.com/signup">Click</a>
 <br/>
 <br/>
 <br/>
 
 # Lets Hands on....
 
-## Dasar-dasar Git.
+## 1. Dasar-dasar Git.
 - Git Commit <br/>
 Gitt Commit merupakan perintah untuk menyimpan hasil perubahan setiap file yang ada di dalam direktori kerja.  
-- Git Checkout <br/>
+
+### 2. Git Branches.
+Branching artinya kita membuat timeline baru yang berbeda dari timeline utama dan biasanya timeline utama, atau branch utama disebut dengan master atau main
+
+
+
+<br/>
+<br/>
+<br/>
+
+## Next
+Learn more about git: <a href="https://git-scm.com/docs">Dokumentasi Git</a>
+
+
+ - Git Checkout <br/>
 melakukan pengembalian kondisi berkas seperti waktu yang dituju atau commit yang dituju dan berpindah dari satu cabang(branch) kerja ke cabang(branch) kerja yang lain.
  ![check](https://github.com/user-attachments/assets/85c7ed26-291b-4801-b67a-98a38f16b6ea)
 
@@ -29,10 +44,5 @@ perintah untuk mengembalikan suatu kondisi berkas ke commit yang dituju dan meng
 Perintah ini akan mengembalikan kondisi suatu berkas ke waktu/commit yang dituju tanpa menghapus catatan riwayat commit.
 ![rever](https://github.com/user-attachments/assets/17590d2a-53e0-403a-bd0f-9762b0426e3c)
 
-### Git Branches.
 
 
- apa itu Commit?
- Commit itu seperti snapshot (cuplikan) dari repository Anda pada waktu tertentu dan merupakan salah satu perintah dasar Git untuk menyimpan perubahan setiap file dalam repository di mana perubahan yang telah di-commit akan tersimpan riwayat perubahannya. 
-
-### Untuk membuat akun github : <a href="https://github.com/signup">Click</a>
