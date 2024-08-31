@@ -1,4 +1,4 @@
-# Belajar-Git-GithubHandsOn
+# Hands On Belajar-Git-Github
 ### Git dan GitHub.
 Git adalah Version control system.
 Version Control System merupakan tools untuk mengatur suatu perubahan dan konfigurasi dari suatu Folder, termasuk juga source code. 
